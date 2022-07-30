@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Aluno : Natanael Lucas Secundo de Sousa
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
